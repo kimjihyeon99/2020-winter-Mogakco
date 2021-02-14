@@ -16,3 +16,15 @@
 정유성(https://can019.github.io/mogakco/Mogakco_1/)
 
 강시온
+
+# 최종 회고
+
+김지현(https://github.com/kimjihyeon99/Mogakgo_private)
+
+송현진(https://blog.naver.com/hyeonjin0103/222235627410)
+
+김성렬(https://github.com/SteveKimSR/2020_winter_mogakco/blob/main/final.md)
+
+정유성(https://can019.github.io/mogakco/Mogakco_8/)
+
+강시온(https://sionyami.tistory.com/20)
